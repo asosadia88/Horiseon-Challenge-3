@@ -28,7 +28,7 @@ This site may now be accessed with all its updated features by visiting the hype
 <!-- insert link after deployment here -->
 
 The page will welcome you with the following image:
-<img src=/Users/anniessosa/Desktop/UM-Bootcamp/Horiseon-Challenge-2/Images/Screenshot.png>
+<img src="assets/images/Screenshot.png">
 
 ## Credits
 
