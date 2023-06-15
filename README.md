@@ -25,7 +25,7 @@ N/A
 
 This site may now be accessed with all its updated features by visiting the hyperlink below: 
 
-<!-- insert link after deployment here -->
+https://asosadia88.github.io/Horiseon-Challenge-3/
 
 The page will welcome you with the following image:
 <img src="assets/images/Screenshot.png">
